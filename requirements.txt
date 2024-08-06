@@ -1,0 +1,10 @@
+ipywidgets
+jupyterlab
+matplotlib
+myopic-mces
+natsort
+pandas
+plotly
+scikit-learn
+umap-learn
+kaleido
